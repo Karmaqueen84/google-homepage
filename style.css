@@ -1,0 +1,54 @@
+div.content{
+	height: 233px;
+	margin-top: 89px;
+	display: inline-block;
+	position: relative;
+}
+
+div.search{
+	margin: 0px;
+	width: 100%;
+	height: auto;
+}
+
+
+div.content-all{
+	width: 550px;
+}
+
+div.search input {
+	width: 100%;
+}
+li{
+	display: inline;
+	float: right;
+	margin: 20px;
+}
+a{
+	display: block;
+	background-color: white;
+}
+
+p{
+	bottom: 0;
+	width: 100%;
+	color: gray;
+	text-align: left;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+footer{
+	bottom: 0;
+	width: 100%;
+	background-color: white;
+	color: gray;
+	text-align: left;
+}
+
+footer li{
+	display: inline;
+	float: left;
+	margin: 20px;
+	color: gray;
+}
